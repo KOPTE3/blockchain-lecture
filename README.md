@@ -1,2 +1,2 @@
-# lecture-1
-Защита ОС. Лекция 1
+# blockchain lecture
+About blockchain

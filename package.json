@@ -1,22 +1,22 @@
 {
-  "name": "wannacrypt",
+  "name": "blockchain-lecture",
   "version": "1.0.0",
-  "description": "About WannaCry attack and Protection against attacks",
+  "description": "About blockchain",
   "main": "index.html",
   "scripts": {
     "start": "reload -b"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KOPTE3/WannaCry-lecture.git"
+    "url": "git+https://github.com/KOPTE3/blockchain-lecture.git"
   },
   "keywords": [],
   "author": "Anatoliy Ostapenko <ostapencko.anatoliy@yandex.ru>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KOPTE3/WannaCry-lecture/issues"
+    "url": "https://github.com/KOPTE3/blockchain-lecture/issues"
   },
-  "homepage": "https://github.com/KOPTE3/WannaCry-lecture#readme",
+  "homepage": "https://github.com/KOPTE3/blockchain-lecture#readme",
   "devDependencies": {
     "reload": "^1.1.1"
   }
