@@ -4,7 +4,7 @@
   "description": "About blockchain",
   "main": "index.html",
   "scripts": {
-    "start": "reload -b"
+    "start": "reload"
   },
   "repository": {
     "type": "git",
