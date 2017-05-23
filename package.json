@@ -4,7 +4,8 @@
   "description": "About blockchain",
   "main": "index.html",
   "scripts": {
-    "start": "reload -p $PORT"
+    "start": "reload -p $PORT",
+    "reload": "reload -b"
   },
   "repository": {
     "type": "git",
