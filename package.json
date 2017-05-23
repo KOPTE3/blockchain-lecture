@@ -17,7 +17,7 @@
     "url": "https://github.com/KOPTE3/blockchain-lecture/issues"
   },
   "homepage": "https://github.com/KOPTE3/blockchain-lecture#readme",
-  "devDependencies": {
+  "dependencies": {
     "reload": "^1.1.1"
   }
 }
